@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ocryenihalitest", "ocryenihalitest\ocryenihalitest.csproj", "{01FA0638-6846-47C6-A738-A19BA2BEFD48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ocr.API", "Ocr.API\Ocr.API.csproj", "{D11CA935-7830-414E-883B-6E7DC8D21A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01FA0638-6846-47C6-A738-A19BA2BEFD48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FA0638-6846-47C6-A738-A19BA2BEFD48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FA0638-6846-47C6-A738-A19BA2BEFD48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FA0638-6846-47C6-A738-A19BA2BEFD48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D11CA935-7830-414E-883B-6E7DC8D21A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11CA935-7830-414E-883B-6E7DC8D21A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11CA935-7830-414E-883B-6E7DC8D21A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11CA935-7830-414E-883B-6E7DC8D21A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637F72B2-204B-4B74-B66F-F898A0ABC58F}
+	EndGlobalSection
+EndGlobal
